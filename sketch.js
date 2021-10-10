@@ -54,7 +54,7 @@ function setup() {
 function draw() {
   background(255);
 
-  kangaroo.x=camera.positionX-270;
+ 
   
   kangaroo.x=camera.position.x-270;
   
