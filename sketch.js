@@ -112,7 +112,7 @@ function spawnShrubs() {
 
   if (frameCount % 150 === 0) {
 
-    var shrub = createSprite(camera.position+500,330,40,10);
+   
     var shrub = createSprite(camera.position.x+500,330,40,10);
     
     
